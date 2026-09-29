@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I%20am%20Madhaw%20Verma&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20and%20Mobile%20Developer&descAlignY=55&descAlign=62&v=2)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I%20am%20Madhaw%20Verma&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20and%20Mobile%20Developer&descAlignY=55&descAlign=62&v=4)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge&v=2)](https://github.com/Madhawverma)
+[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge&v=4)](https://github.com/Madhawverma)
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhawverma&theme=tokyonight&hide_border=true&v=3)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhawverma&theme=tokyonight&hide_border=true&v=4)
 
 </div>
 
@@ -76,6 +76,6 @@
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=2)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=4)
 
 </div>
