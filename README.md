@@ -36,14 +36,16 @@
   <img src="https://skillicons.dev/icons?i=react,apple,android" /> *(React Native & Expo)*
 </p>
 
-### ⚙️ Backend, API & Languages
+### ⚙️ Backend & API
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,go,graphql,prisma,rust" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,fastapi,flask,java,spring,go,graphql,prisma,rust" />
 </p>
 
-### 🗄️ Database & ORM
+### 🗄️ Database, ORM & BaaS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase,firebase,dynamodb,cassandra" />
+  <br/>
+  <b>(SQL & NoSQL Databases)</b>
 </p>
 
 ### ☁️ Cloud, DevOps & Hosting
