@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I'm%20Madhaw%20Verma&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=55&descAlign=62" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I%20am%20Madhaw%20Verma&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20and%20Mobile%20Developer&descAlignY=55&descAlign=62)
+
 </div>
 
 <h3 align="center">Building robust digital experiences from front to back! 🚀</h3>
 
 <div align="center">
-  <a href="https://github.com/Madhawverma">
-    <img src="https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Madhawverma)
+
 </div>
 
 <br/>
@@ -63,15 +65,23 @@
 ## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhawverma&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhawverma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhawverma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhawverma&show_icons=true&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhawverma&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhawverma&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
