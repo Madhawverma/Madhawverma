@@ -36,12 +36,21 @@
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,mongodb,mysql,postgres,firebase" />
 </p>
 
-### 🛠️ Tools & Deployment
+### ☁️ Cloud, Hosting & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=vercel,docker,linux,aws" />
+  <br/>
+  <b>Render</b> | <b>Railway</b>
+</p>
+
+### 🛠️ Tools & AI Assistants
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <br/>
+  🤖 <b>Antigravity IDE</b> (Advanced Agentic AI)
 </p>
 
 ---
