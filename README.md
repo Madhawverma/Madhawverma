@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I%20am%20Madhaw%20Verma&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20and%20Mobile%20Developer&descAlignY=55&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I%20am%20Madhaw%20Verma&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20and%20Mobile%20Developer&descAlignY=55&descAlign=62&v=2)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Madhawverma)
+[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge&v=2)](https://github.com/Madhawverma)
 
 </div>
 
@@ -68,15 +68,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhawverma&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhawverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2)
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhawverma&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhawverma&theme=tokyonight&hide_border=true&v=2)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhawverma&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhawverma&layout=compact&theme=tokyonight&hide_border=true&v=2)
 
 </div>
 
@@ -84,6 +84,6 @@
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=2)
 
 </div>
