@@ -1,16 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I%20am%20Madhawverma&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20and%20Mobile%20Developer&descAlignY=55&descAlign=62&v=4)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I%20am%20Madhaw%20Verma&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20and%20Mobile%20Developer&descAlignY=55&descAlign=62&v=4)
 
 </div>
 
 <h3 align="center">Building robust digital experiences from front to back! 🚀</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" alt="Coding Laptop Animation">
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -87,6 +81,14 @@
 </div>
 
 <br/>
+
+---
+
+## 💻 My Coding Environment
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" alt="Coding Laptop Animation">
+</div>
 
 ---
 
