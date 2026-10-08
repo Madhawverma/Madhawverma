@@ -7,6 +7,10 @@
 <h3 align="center">Building robust digital experiences from front to back! 🚀</h3>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=I+am+Madhaw+Verma;A+Full+Stack+Web+and+App+Developer" alt="Typing SVG" />
+</div>
+
+<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge&v=4)](https://github.com/Madhawverma)
 
