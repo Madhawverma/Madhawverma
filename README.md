@@ -1,4 +1,12 @@
 <div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35">
+    Welcome to my GitHub! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35">
+  </h2>
+</div>
+
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I%20am%20Madhaw%20Verma&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20and%20Mobile%20Developer&descAlignY=55&descAlign=62&v=4)
 
