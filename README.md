@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMadhawverma&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)](https://github.com/Madhawverma)
+[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Madhawverma)
 </div>
 
 <br/>
@@ -75,20 +75,27 @@
 
 ---
 
-## 📈 My GitHub Stats
+## 🧠 GitHub Intelligence
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhawverma&theme=tokyonight&hide_border=true&v=4)
-
+  <a href="https://github.com/Madhawverma">
+    <img src="https://github-readme-stats.vercel.app/api?username=Madhawverma&show_icons=true&bg_color=0d1117&title_color=f1c40f&icon_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Madhaw Verma's GitHub Stats" height="195" />
+  </a>
+  <a href="https://github.com/Madhawverma">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhawverma&layout=compact&bg_color=0d1117&title_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Most Used Languages" height="195" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhawverma&theme=tokyonight&hide_border=true&v=4" alt="GitHub Streak" />
+</div>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=4)
+<br/>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=4" alt="Dev Quote" />
 </div>
 
 <br/>
