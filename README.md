@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Madhawverma)
+[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&base=2681&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Madhawverma)
 </div>
 
 <br/>
