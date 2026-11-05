@@ -1,8 +1,8 @@
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35">
-    Welcome to my GitHub! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35" alt="Waving hand">
+    Welcome to my GitHub!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35" alt="Waving hand">
   </h2>
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&base=2681&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Madhawverma)
+[![Profile Views](https://komarev.com/ghpvc/?username=Madhawverma&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Madhawverma)
 </div>
 
 <br/>
@@ -39,36 +39,36 @@
 
 ### 🌐 Frontend & UI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,bootstrap,mui,redux,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,bootstrap,mui,redux,vite,figma" alt="Frontend technologies" />
 </p>
 
 ### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,apple,android" /> *(React Native & Expo)*
+  <img src="https://skillicons.dev/icons?i=react,apple,android" alt="Mobile development technologies" /> *(React Native & Expo)*
 </p>
 
 ### ⚙️ Backend & API
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,fastapi,flask,java,spring,go,graphql,prisma,rust" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,fastapi,flask,java,spring,go,graphql,prisma,rust" alt="Backend technologies" />
 </p>
 
 ### 🗄️ Database, ORM & BaaS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase,firebase,dynamodb,cassandra" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase,firebase,dynamodb,cassandra" alt="Database technologies" />
   <br/>
   <b>(SQL & NoSQL Databases)</b>
 </p>
 
 ### ☁️ Cloud, DevOps & Hosting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,vercel,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,vercel,githubactions" alt="Cloud and DevOps technologies" />
   <br/>
   <b>Render</b> | <b>Railway</b> | <b>DigitalOcean</b>
 </p>
 
 ### 🛠️ Tools & AI Assistants
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,ubuntu" alt="Development tools" />
   <br/>
   🤖 <b>Antigravity IDE</b> (Advanced Agentic AI) | <b>ChatGPT</b> | <b>Claude</b>
 </p>
@@ -79,27 +79,28 @@
 
 <div align="center">
   <a href="https://github.com/Madhawverma">
-    <img src="https://github-readme-stats.vercel.app/api?username=Madhawverma&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=f1c40f&icon_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Madhaw Verma's GitHub Stats" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Madhawverma&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=f1c40f&icon_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Madhaw Verma's GitHub stats" height="195" />
   </a>
   <a href="https://github.com/Madhawverma">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhawverma&layout=compact&bg_color=0d1117&title_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Most Used Languages" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhawverma&layout=compact&bg_color=0d1117&title_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Most used languages" height="195" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhawverma&theme=tokyonight&hide_border=true&v=4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Madhawverma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=4" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
 </div>
 
 <br/>
-----
+
+---
 
 ## 🐍 My GitHub Contribution Snake
 
@@ -107,7 +108,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhawverma/Madhawverma/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhawverma/Madhawverma/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Madhawverma/Madhawverma/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Madhawverma/Madhawverma/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -119,6 +120,6 @@ Want to take a break? Challenge the AI to a game of chess right now!
 
 <div align="center">
   <a href="https://lichess.org/play/computer">
-    <img src="https://img.shields.io/badge/Play_With_Me-Chess-blue?style=for-the-badge&logo=lichess&logoColor=white" alt="Play Chess">
+    <img src="https://img.shields.io/badge/Play_With_Me-Chess-blue?style=for-the-badge&logo=lichess&logoColor=white" alt="Play chess">
   </a>
 </div>
