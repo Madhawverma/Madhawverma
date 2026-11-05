@@ -99,6 +99,7 @@
 </div>
 
 <br/>
+----
 
 ## 🐍 My GitHub Contribution Snake
 
