@@ -79,17 +79,17 @@
 
 <div align="center">
   <a href="https://github.com/Madhawverma">
-    <img src="https://github-readme-stats.vercel.app/api?username=Madhawverma&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=f1c40f&icon_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Madhaw Verma's GitHub stats" height="195" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Madhawverma&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=f1c40f&icon_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Madhaw Verma's GitHub stats" height="195" />
   </a>
   <a href="https://github.com/Madhawverma">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhawverma&layout=compact&bg_color=0d1117&title_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Most used languages" height="195" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Madhawverma&layout=compact&bg_color=0d1117&title_color=f1c40f&text_color=ffffff&border_color=21262d" alt="Most used languages" height="195" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Madhawverma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats-rho.vercel.app/?user=Madhawverma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 <br/>
